@@ -10,6 +10,7 @@
 *.dll
 *.so
 *.out
+*.vscode
 
 # Ignore build folders
 build/
