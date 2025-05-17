@@ -1,4 +1,4 @@
-// // brute force approach
+// Concept of printing sub array
 #include <iostream>
 using namespace std;
 int main()
@@ -14,7 +14,7 @@ int main()
     {
       for (int i = st; i <= en; i++)
       {
-        cout << arr[i];
+        cout << arr[i]; // print elements of the subarray
         if (i < en)
           cout << " "; // add space between elements
       }
