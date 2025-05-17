@@ -12,13 +12,9 @@ vector<int> pairAndSum(vector<int> arr, int target)
   {
     int pairsum = arr[i] + arr[j];
     if (pairsum > target)
-    {
       j--;
-    }
     else if (pairsum < target)
-    {
       i++;
-    }
     else
     {
       ans.push_back(i);
