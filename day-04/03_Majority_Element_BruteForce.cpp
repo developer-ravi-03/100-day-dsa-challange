@@ -1,3 +1,5 @@
+// Brute force approach
+// TC- O(npow2)
 #include <iostream>
 #include <vector>
 using namespace std;
