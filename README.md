@@ -31,8 +31,6 @@ in this repository 100 day dsa challange in which we learn dsa everyday and save
 
 ## Day 5
 
-- Pair and Sum - Brute force approach
-- Pair and Sum - Optimized approach
-- Majority Element - Brute Force approach
-- Majority Element - Optimized approach
-- Majority Element - Most Optimized approach(Moore's Algorithm)
+- Linear Search - TC analysis
+- Binary Search - TC analysis
+- Bubble sort - TC analysis
