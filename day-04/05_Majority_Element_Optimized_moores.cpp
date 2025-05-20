@@ -36,7 +36,7 @@ int majorityElement(vector<int> num)
 }
 int main()
 {
-  vector<int> num = {1, 2, 2, 1, 2, 1};
+  vector<int> num = {1, 2, 2, 1, 2};
 
   int element = majorityElement(num);
   cout << "Majority Element: " << element << endl;
