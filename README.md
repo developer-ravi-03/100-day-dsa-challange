@@ -25,3 +25,6 @@ in this repository 100 day dsa challange in which we learn dsa everyday and save
 
 - Pair and Sum - Brute force approach
 - Pair and Sum - Optimized approach
+- Majority Element - Brute Force approach
+- Majority Element - Optimized approach
+- Majority Element - Most Optimized approach(Moore's Algorith)
