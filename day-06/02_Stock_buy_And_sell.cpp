@@ -1,3 +1,7 @@
+// leetcode - 121
+// stock buy and sell
+// in this array find which day to buy and which day to sell the item then return max profit
+
 #include <iostream>
 #include <vector>
 using namespace std;
