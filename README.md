@@ -55,4 +55,19 @@ in this repository 100 day dsa challange in which we learn dsa everyday and save
 - Leetcode - 238
 - Product of Array Except Self - Brute Force Approach
 - Product of Array Except Self - Optimized Approach
+
+---
+
+- Leetcode - 33
+- Seaarch in rotated sorted array
+
+---
+
+- Leetcode - 852
+- Peek index in Mountain array
+
+---
+
 - Pointers
+
+---
