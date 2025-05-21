@@ -35,7 +35,9 @@ in this repository 100 day dsa challange in which we learn dsa everyday and save
 
 - Linear Search - TC analysis
 - Binary Search - TC analysis
+- Binary Search - TC analysis with recursion
 - Bubble sort - TC analysis
+- Prime Number
 
 ## Day 6
 
@@ -53,3 +55,4 @@ in this repository 100 day dsa challange in which we learn dsa everyday and save
 - Leetcode - 238
 - Product of Array Except Self - Brute Force Approach
 - Product of Array Except Self - Optimized Approach
+- Pointers
