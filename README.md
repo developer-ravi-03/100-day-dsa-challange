@@ -36,3 +36,20 @@ in this repository 100 day dsa challange in which we learn dsa everyday and save
 - Linear Search - TC analysis
 - Binary Search - TC analysis
 - Bubble sort - TC analysis
+
+## Day 6
+
+- Compute x power n - Leetcode 50
+- Stock Buy and sell - Leetcode 121
+
+## Day 7
+
+- Leetcode - 11
+- Container With Most Water - Brute Force Approach
+- Container With Most Water - 2 pointer Approach(Optimized)
+
+## Day 8
+
+- Leetcode - 238
+- Product of Array Except Self - Brute Force Approach
+- Product of Array Except Self - Optimized Approach
