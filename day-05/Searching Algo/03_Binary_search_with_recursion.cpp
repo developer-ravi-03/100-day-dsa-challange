@@ -1,6 +1,7 @@
-// Binary Search
+// Binary Search with recursion
 // it works on sorted array
 // TC- O(log n)
+// SC- O(1)
 #include <iostream>
 using namespace std;
 

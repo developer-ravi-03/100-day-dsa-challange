@@ -1,6 +1,7 @@
 // Binary Search
 // it works on sorted array
 // TC- O(log n)
+// SC- O(log n)
 #include <iostream>
 using namespace std;
 
