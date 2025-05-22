@@ -1,6 +1,6 @@
 // Leetcode - 540
 //  Single Element In sorted Array
-// Brute force approach
+// Optimal approach
 // TC - O(n)
 #include <iostream>
 #include <vector>
