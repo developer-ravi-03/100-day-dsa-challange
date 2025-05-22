@@ -71,3 +71,9 @@ in this repository 100 day dsa challange in which we learn dsa everyday and save
 - Pointers
 
 ---
+
+## Day 9
+
+- Leetcode - 540
+- Single Element in Sorted Array - Brute Force Approach
+- Single Element in Sorted Array - Optimized Approach
