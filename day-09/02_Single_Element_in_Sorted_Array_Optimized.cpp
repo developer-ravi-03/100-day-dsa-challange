@@ -1,7 +1,8 @@
 // Leetcode - 540
 //  Single Element In sorted Array
 // Optimal approach
-// TC - O(n)
+// TC - O(log n)
+// SC - O(1)
 #include <iostream>
 #include <vector>
 using namespace std;
