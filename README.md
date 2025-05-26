@@ -77,3 +77,31 @@ in this repository 100 day dsa challange in which we learn dsa everyday and save
 - Leetcode - 540
 - Single Element in Sorted Array - Brute Force Approach
 - Single Element in Sorted Array - Optimized Approach
+
+## Day 10
+
+- Book Allocation Problem
+
+## Day 11
+
+- Book Allocation Problem
+- Painter's Partition Problem
+- Aggressive cows Problem
+
+## Day 12
+
+- Leetcode - 75
+- Sort Array with 0s,1s,2s - Brute Force Approach
+- Sort Array with 0s,1s,2s - Optimized Approach
+- Sort Array with 0s,1s,2s - Dutch National Flag Algorithm
+
+## Day 13
+
+- Leetcode - 88
+- Merge two Sorted Array - Brute force Approach
+- Merge two Sorted Array - Optimized Approach
+
+---
+
+- Leetcode -33
+- Next Permutation Problem- Optimized Approach
