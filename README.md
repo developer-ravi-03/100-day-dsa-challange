@@ -105,3 +105,20 @@ in this repository 100 day dsa challange in which we learn dsa everyday and save
 
 - Leetcode -33
 - Next Permutation Problem- Optimized Approach
+
+## Day 14
+
+- Standard Template Library
+
+1. vector
+2. list
+3. deque
+4. pair
+5. stack
+6. queue
+7. priority queue
+8. map
+9. set
+10. algorithm
+
+- in this we have covered Container, Iterators, Algorithms, functors
