@@ -20,10 +20,18 @@ int gcd(int a, int b)
   }
   return a;
 }
+
+int gcdRec(int a, int b)
+{
+  if (b == 0)
+    return a;
+  return gcdRec(b, a % b);
+}
 int main()
 {
-  int a = 6, b = 12;
-  cout << "gcd : " << gcd(a, b);
+  int a = 12, b = 60;
+  cout << "gcd : " << gcd(a, b) << endl;
+  cout << "gcdRec : " << gcdRec(a, b);
 
   return 0;
 }
