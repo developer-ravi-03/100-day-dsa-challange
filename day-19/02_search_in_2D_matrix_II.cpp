@@ -6,7 +6,11 @@
 using namespace std;
 bool searchMatrix(vector<vector<int>> &mat, int tar)
 {
-  int m = mat.size(), n = mat[0].size();
+  int m = mat.size();
+  if (m == 0 || mat[0].size() == 0)
+    return false; // SAFETY CHECK
+
+  int n = mat[0].size();
   int r = 0, c = n - 1;
   while (c >= 0 && r < m)
   {
