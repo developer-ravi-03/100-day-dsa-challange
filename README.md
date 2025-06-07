@@ -122,3 +122,104 @@ in this repository 100 day dsa challange in which we learn dsa everyday and save
 10. algorithm
 
 - in this we have covered Container, Iterators, Algorithms, functors
+
+---
+
+## Day 15
+
+- Character Array
+- String
+- Reverse String -> Leetcode - 344
+- Valid Pallindrome -> Leetcode - 125
+- Remove all Occurance -> Leetcode - 1910
+- Permutation in string -> Leetcode - 567
+- Reverse word in String -> Leetcode - 151
+
+## Day 16
+
+- String Compression -> Leetcode - 443
+- isPrime or Not
+- Count Prime -> Leetcode - 204
+- Digits in a number
+- Armstrong in a number
+
+## Day 17
+
+- Greatest Common Divisor
+- GCD with Euclid Algorithm
+- Least Common Multiplication
+- Reverse a number -> Leetcode - 07
+- Pallindrome or not -> Leetcode - 09
+
+## Day 18
+
+- 2D Array
+- 2D Array input
+- 2D Array Linear Search
+- Maximum Row Sum
+- Maximum Col Sum
+- Diagonal Sum
+- 2D Vector
+
+## Day 19
+
+- Search in 2D Matrix -> Leetcode - 74
+- Search in 2D Matrix II -> Leetcode - 240
+
+## Day 20
+
+- Spiral Matrix -> Leetcode - 54
+
+## Day 21
+
+- 2 Sum with Optimized Approach -> Leetcode - 01
+- Find missing and repeated values -> Leetcode - 2965
+- Find the duplicate number -> Leetcode - 287
+
+## Day 22
+
+- Leetcode - 15
+- 3 Sum with Brute Force
+- 3 Sum with Hashing
+- 3 Sum with 2 Pointer
+
+## Day 23
+
+- Leetcode - 18
+- 4 Sum - Optimal Approach
+
+## Day 24
+
+- SubArray Sum Equals K - Brute Force Approach
+- SubArray Sum Equals K - Optimized Approach
+
+## Day 25
+
+1. Recursion part - 1
+
+- Recursion
+- Factorial of number
+- Sum of n Number
+
+---
+
+2. Recursion part - 2
+
+- Fibonacci Series -> Leetcode - 509
+- Array Sorted or not
+- Binary Search with recursion -> Leetcode - 704
+
+---
+
+3. Recursion part - 3
+
+- Print all Subset of arr
+- Subset -> Leetcode - 78
+- Subset II -> Leetcode - 90
+
+---
+
+4. Recursion part - 4
+
+- Permutation of number -> Leetcode - 46
+- Permutation of String
