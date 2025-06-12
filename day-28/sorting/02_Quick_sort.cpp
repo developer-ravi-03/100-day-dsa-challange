@@ -1,3 +1,6 @@
+// Quick Sort Algorithm Implementation in C++
+//  TC: O(n log n) on average, O(n^2) in the worst case
+//  SC: O(log n) for the recursive stack space
 #include <iostream>
 #include <vector>
 using namespace std;
