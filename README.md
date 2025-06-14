@@ -223,3 +223,66 @@ in this repository 100 day dsa challange in which we learn dsa everyday and save
 
 - Permutation of number -> Leetcode - 46
 - Permutation of String
+
+## Day 26
+
+- N-Queen -> Leetcode - 51
+- Sudoku solver -> Leetcode - 37
+
+## Day 27
+
+- Rat in a Maze - Brute Force Approach
+- Rat in a Maze - Oprimized Approach
+- ombination Sum
+
+## Day 28
+
+- Sorting
+
+1. Merge Sort
+2. Quick Sort
+
+---
+
+- Pallindrome Partioning -> Leetcode - 131
+
+## Day 29
+
+- Count Inversion using Brute Force Approach
+- Count Inversion using Optimized Approach
+- Knights Tour -> Leetcode - 2596
+
+## Day 30
+
+- OOPs
+
+---
+
+- Pillars of OOPs
+
+1. Encapsulation
+2. Inheritance
+3. Polymorphism
+4. Abstraction
+
+---
+
+- Static Keyword
+
+Note : everything of OOPs covered in day 30 in one shot
+
+## Day 31
+
+- Linked List
+
+---
+
+- All Operation of Linked List has been covered
+
+1. push_Back
+2. push_Front
+3. pop_Front
+4. pop_back
+5. print the LL -> traversing the LL
+6. Insert in the middle of element
+7. Search Elemet in linked list
