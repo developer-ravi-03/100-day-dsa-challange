@@ -25,7 +25,7 @@ public:
   }
 
   // for push front operation
-  void push_front(int val)
+  void push_front(int val) // O(1)
   {
     Node *newNode = new Node(val); // dynamic allocation
     // Node newNode(val); // static allocation (not recommended for linked lists because it will not be freed automatically)
@@ -41,7 +41,7 @@ public:
   }
 
   // for push front operation
-  void push_back(int val)
+  void push_back(int val) // O(1) -> if use tail pointer  if not use tail pointer O(n)
   {
     Node *newNode = new Node(val);
     if (head == NULL)
@@ -56,7 +56,7 @@ public:
   }
 
   // pop front operation
-  void pop_front()
+  void pop_front() // O(1)
   {
     if (head == NULL)
     {
@@ -72,7 +72,7 @@ public:
   }
 
   // pop back operation
-  void pop_back()
+  void pop_back() // O(n) -> if use tail pointer O(1)
   {
     if (head == NULL)
     {
@@ -97,7 +97,7 @@ public:
   }
 
   // print linkedlist
-  void printll()
+  void printll() // O(n)
   {
     Node *temp = head;
     while (temp != NULL)
