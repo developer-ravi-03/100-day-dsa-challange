@@ -1,5 +1,5 @@
-// Leetcode : 141
-// Linked List Cycle
+// Leetcode : 142
+// Linked List Cycle II
 // Problem: Detect if a linked list has a cycle
 // Slow and Fast Approach
 // TC: O(n)
@@ -17,22 +17,37 @@ struct ListNode
 class Solution
 {
 public:
-  bool hasCycle(ListNode *head)
+  ListNode *detectCycle(ListNode *head)
   {
     ListNode *slow = head;
     ListNode *fast = head;
+    bool isCycle = false;
 
     while (fast != NULL && fast->next != NULL)
     {
       slow = slow->next;
       fast = fast->next->next;
       if (slow == fast)
-        return true;
+      {
+        isCycle = true;
+        break;
+      }
     }
-    return false;
+
+    if (!isCycle)
+    {
+      return NULL;
+    }
+
+    slow = head;
+    while (slow != fast)
+    {
+      slow = slow->next;
+      fast = fast->next;
+    }
+    return slow;
   }
 };
-
 int main()
 {
   ListNode *head = new ListNode(1);
@@ -44,15 +59,14 @@ int main()
   head->next->next->next->next->next = head->next->next; // 5 points to 3
 
   Solution sl;
-  bool hasCycle = sl.hasCycle(head);
-  if (hasCycle)
+  ListNode *cycleStart = sl.detectCycle(head);
+  if (cycleStart)
   {
-    cout << "The linked list has a cycle." << endl;
+    cout << "The linked list has a cycle starting at node with value: " << cycleStart->val << endl;
   }
   else
   {
     cout << "The linked list does not have a cycle." << endl;
   }
-
   return 0;
 }
