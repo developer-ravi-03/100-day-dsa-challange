@@ -64,7 +64,7 @@ public:
     if (head == NULL)
       return;
 
-    if (head == tail)
+    else if (head == tail)
     {
       delete head;
       head = tail = NULL;
@@ -73,6 +73,32 @@ public:
     {
       Node *temp = head;
       head = head->next;
+      tail->next = head;
+      temp->next = NULL;
+      delete temp;
+    }
+  }
+
+  // delete at tail
+  void deleteAtTail()
+  {
+    if (head == NULL)
+      return;
+
+    else if (head == tail)
+    {
+      delete head;
+      head = tail = NULL;
+    }
+    else
+    {
+      Node *temp = tail;
+      Node *prev = head;
+      while (prev->next != tail)
+      {
+        prev = prev->next;
+      }
+      tail = prev;
       tail->next = head;
       temp->next = NULL;
       delete temp;
@@ -115,6 +141,10 @@ int main()
 
   cll.deleteAtHead();
   cll.deleteAtHead();
+  cll.printList();
+
+  cll.deleteAtTail();
+  cll.deleteAtTail();
   cll.printList();
 
   return 0;
