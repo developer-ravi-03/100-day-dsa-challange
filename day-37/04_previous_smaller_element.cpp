@@ -1,5 +1,5 @@
 // TC : O(n)
-// SC : O(n) Linear
+// SC : O(n)
 #include <iostream>
 #include <vector>
 #include <stack>
