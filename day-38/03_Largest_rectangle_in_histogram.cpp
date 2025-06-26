@@ -1,7 +1,7 @@
 // Leetcode : 84
 // Largest Rectangle in histogram
-// TC :
-// SC :
+// TC : O(n)
+// SC : O(n)
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
