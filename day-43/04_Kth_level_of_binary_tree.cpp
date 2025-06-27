@@ -1,4 +1,4 @@
-// TC : O(Nlogn)
+// TC : O(n)
 #include <iostream>
 #include <vector>
 #include <queue>
