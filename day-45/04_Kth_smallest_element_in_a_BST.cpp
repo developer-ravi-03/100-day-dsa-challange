@@ -1,3 +1,6 @@
+// Leetcode : 230
+// Kth smallest elememt in a BST
+// TC: O(n)
 #include <iostream>
 using namespace std;
 
