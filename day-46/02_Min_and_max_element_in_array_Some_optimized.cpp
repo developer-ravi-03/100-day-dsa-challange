@@ -1,7 +1,7 @@
 // DSA sheet
 // Min And Max Element
 // TC: O(N logn)
-// SC: O(n)
+// SC: O(1)
 #include <iostream>
 #include <vector>
 #include <algorithm>
