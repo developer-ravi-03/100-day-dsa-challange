@@ -286,3 +286,5 @@ Note : everything of OOPs covered in day 30 in one shot
 5. print the LL -> traversing the LL
 6. Insert in the middle of element
 7. Search Elemet in linked list
+8. Creating LL using struct with Static Memory
+9. Creating LL using struct with Pointer (In heap Memory)
