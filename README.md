@@ -337,3 +337,10 @@ Note : everything of OOPs covered in day 30 in one shot
 - Min Stack II
 - Largest Rectangle in histogram -> Leetcode - 84
 - Next Greater Element II -> Leetcode - 503
+
+## Day 39
+
+- Trapping Rainwater with Better Approach -> Leetcode - 42
+- Trapping Rainwater with Optimised Approach -> Leetcode - 42
+- Celebrity Problem
+- LRU Cache -> Leetcode - 146
