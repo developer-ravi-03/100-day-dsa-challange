@@ -324,3 +324,9 @@ Note : everything of OOPs covered in day 30 in one shot
 3. Stack using STL
 
 - Valid Parenthesis Problem
+
+### Stack
+
+- Stock Span
+- Next Greater Element I -> Leetcode - 496
+- Previous Smaller Element
