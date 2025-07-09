@@ -325,7 +325,7 @@ Note : everything of OOPs covered in day 30 in one shot
 
 - Valid Parenthesis Problem
 
-### Stack
+## Day 37
 
 - Stock Span
 - Next Greater Element I -> Leetcode - 496
