@@ -344,3 +344,13 @@ Note : everything of OOPs covered in day 30 in one shot
 - Trapping Rainwater with Optimised Approach -> Leetcode - 42
 - Celebrity Problem
 - LRU Cache -> Leetcode - 146
+
+## Day 40
+
+### Queue
+
+1. Queue
+2. Queue STL
+3. Deque
+
+### Circular Queue
