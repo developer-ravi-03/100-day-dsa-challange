@@ -298,3 +298,7 @@ Note : everything of OOPs covered in day 30 in one shot
 - Linked List Cycle -> Leetcode - 141
 - Linked List Cycle II -> Leetcode - 142
 - Remove a cycle from a linked list if it exists
+
+## Day 33
+
+- Merge 2 sorted List
