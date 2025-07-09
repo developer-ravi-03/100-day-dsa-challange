@@ -330,3 +330,10 @@ Note : everything of OOPs covered in day 30 in one shot
 - Stock Span
 - Next Greater Element I -> Leetcode - 496
 - Previous Smaller Element
+
+## Day 38
+
+- Min Stack I
+- Min Stack II
+- Largest Rectangle in histogram -> Leetcode - 84
+- Next Greater Element II -> Leetcode - 503
