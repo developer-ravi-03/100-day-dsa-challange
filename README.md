@@ -314,3 +314,13 @@ Note : everything of OOPs covered in day 30 in one shot
 - Flatten a Multilevel Doubly Linked List -> Leetcode - 430
 - Reverse Nodes in k groups -> Leetcode - 25
 - Swap Nodes in pairs -> Leetcode - 24
+
+## Day 35
+
+### Stack
+
+1. Stack using Vector
+2. Stack using LL
+3. Stack using STL
+
+- Valid Parenthesis Problem
