@@ -308,3 +308,9 @@ Note : everything of OOPs covered in day 30 in one shot
 - Circular LL
 - Doubly LL
 - Copy List with Random Pointer -> Leetcode - 138
+
+## Day 35
+
+- Flatten a Multilevel Doubly Linked List -> Leetcode - 430
+- Reverse Nodes in k groups -> Leetcode - 25
+- Swap Nodes in pairs -> Leetcode - 24
