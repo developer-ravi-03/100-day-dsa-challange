@@ -288,3 +288,13 @@ Note : everything of OOPs covered in day 30 in one shot
 7. Search Elemet in linked list
 8. Creating LL using struct with Static Memory
 9. Creating LL using struct with Pointer (In heap Memory)
+
+## Day 32
+
+- Reverse a singly linked list -> Leetcode - 206
+- Middle of a Linked List
+- Middle of a Linked List Brute force
+- Middle of a Linked List Slow Fast Pointer Approach
+- Linked List Cycle -> Leetcode - 141
+- Linked List Cycle II -> Leetcode - 142
+- Remove a cycle from a linked list if it exists
