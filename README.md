@@ -302,3 +302,9 @@ Note : everything of OOPs covered in day 30 in one shot
 ## Day 33
 
 - Merge 2 sorted List
+
+## Day 34
+
+- Circular LL
+- Doubly LL
+- Copy List with Random Pointer -> Leetcode - 138
