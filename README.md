@@ -422,3 +422,8 @@ Note : everything of OOPs covered in day 30 in one shot
 - Merge 2 BST
 - Recover BST
 - Recover BST Optimised
+
+## Day 46
+
+- Min And Max Element -> DSA Sheet
+- Min And Max Element Optimised-> DSA Sheet
