@@ -363,3 +363,25 @@ Note : everything of OOPs covered in day 30 in one shot
 - Sliding Maximum Window -> Leetcode - 239
 - Gas Station Problem
 - Gas Station Problem -> Most Optimised Approach
+
+## Day 42
+
+### Binary Tree
+
+- Binary Tree with scratch
+
+#### Binary Tree Traversal
+
+1. PreOrder
+2. InOrder
+3. PostOrder
+4. Level Order Traversal
+5. Binary Tree Level wise Print
+
+---
+
+- Height of Tree
+- Count of Nodes
+- Sum of Nodes
+- Identical Tree
+- Subtree Of Another
