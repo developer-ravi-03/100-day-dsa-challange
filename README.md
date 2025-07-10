@@ -427,3 +427,8 @@ Note : everything of OOPs covered in day 30 in one shot
 
 - Min And Max Element -> DSA Sheet
 - Min And Max Element Optimised-> DSA Sheet
+
+## Day 47
+
+- Largest BST in BT
+- Sum of SUbarray Minimum brute force -> GFG
