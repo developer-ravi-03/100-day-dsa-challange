@@ -385,3 +385,12 @@ Note : everything of OOPs covered in day 30 in one shot
 - Sum of Nodes
 - Identical Tree
 - Subtree Of Another
+
+## Day 43
+
+- Diameter of Binary Tree with Brute Force -> Leetcode - 543
+- Diameter of Binary Tree with Optimised Approach -> Leetcode - 543
+- Top View of a Tree
+- Kth level of Binary Tree
+- Lowest Common Ancestor
+- Build Tree from Preorder and Inorder
