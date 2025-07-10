@@ -402,3 +402,23 @@ Note : everything of OOPs covered in day 30 in one shot
 - Maximum width of binary tree -> Leetcode - 662
 - Morris Inorder Traversal -> Leetcode - 94
 - Flatten Binary Tree to Linked List
+
+## Day 45
+
+### Binary Search Tree
+
+1. Insert Nodes In BST
+2. Search Nodes In BST
+3. Delete Nodes In BST
+
+---
+
+- Convert Sorted array in balanced BST -> Leetcode - 108
+- Validate BST -> Leetcode - 98
+- Min Distance b/w two BST Nodes -> Leetcode - 783
+- Kth smallest elememt in a BST -> Leetcode - 230
+- Lowest Common Ancestor -> Leetcode - 235
+- Construct BST From Preorder -> Leetcode - 1008
+- Merge 2 BST
+- Recover BST
+- Recover BST Optimised
