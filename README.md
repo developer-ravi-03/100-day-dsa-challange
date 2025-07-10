@@ -394,3 +394,11 @@ Note : everything of OOPs covered in day 30 in one shot
 - Kth level of Binary Tree
 - Lowest Common Ancestor
 - Build Tree from Preorder and Inorder
+
+## Day 44
+
+- Transform to Sum Tree
+- Binary Tree Path
+- Maximum width of binary tree -> Leetcode - 662
+- Morris Inorder Traversal -> Leetcode - 94
+- Flatten Binary Tree to Linked List
