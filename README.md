@@ -354,3 +354,12 @@ Note : everything of OOPs covered in day 30 in one shot
 3. Deque
 
 ### Circular Queue
+
+## Day 41
+
+- Implement Stack Using Queue -> Leetcode - 225
+- Implement Queue Using Stack -> Leetcode - 232
+- First Unique Character in String -> Leetcode - 387
+- Sliding Maximum Window -> Leetcode - 239
+- Gas Station Problem
+- Gas Station Problem -> Most Optimised Approach
