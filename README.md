@@ -432,3 +432,8 @@ Note : everything of OOPs covered in day 30 in one shot
 
 - Largest BST in BT
 - Sum of SUbarray Minimum brute force -> GFG
+
+## Day 48
+
+- Largest BST in BT
+- Sum of SUbarray Minimum brute force -> GFG
