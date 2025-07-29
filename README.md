@@ -435,4 +435,33 @@ Note : everything of OOPs covered in day 30 in one shot
 
 ## Day 48
 
-- need to be updated in next day
+- Find X element in array
+- Max value in array
+- Second largest element
+- Count element greate than x
+
+## Day 49
+
+- duplets pair in array
+- Last occurance
+- Reverse copy of array
+- Reverse copy of array and store in new array
+- Rotate array by k steps
+
+## Day 50
+
+- sort zeros and ones
+- All negative number at begining
+- sort 0's 1's ans 2's
+- Merge 2 sorted array
+
+## Day 51
+
+### 2D Array
+
+- Largest element in 2D array
+- sum of all element
+- Add 2 metrices
+- Transpose of a matrix
+- Transpose and transform of 2D matrix
+- Rotate matrix by 90 degree
