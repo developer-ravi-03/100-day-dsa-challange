@@ -465,3 +465,12 @@ Note : everything of OOPs covered in day 30 in one shot
 - Transpose of a matrix
 - Transpose and transform of 2D matrix
 - Rotate matrix by 90 degree
+
+## Day 61
+
+### Restart 100 days challange
+
+- Binary Tree Preorder Traversal -> Leetcode - 144
+- Binary Tree inorder Traversal -> Leetcode - 94
+- Binary Tree postorder Traversal -> Leetcode - 145
+- Binary tree Level Order Traversal -> Leetcode - 102
