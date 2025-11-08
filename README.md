@@ -423,6 +423,8 @@ Note : everything of OOPs covered in day 30 in one shot
 - Recover BST
 - Recover BST Optimised
 
+# Revision of Some Question and LeetCode 150
+
 ## Day 46
 
 - Min And Max Element -> DSA Sheet
@@ -466,9 +468,9 @@ Note : everything of OOPs covered in day 30 in one shot
 - Transpose and transform of 2D matrix
 - Rotate matrix by 90 degree
 
-## Day 61
+# Restart From Binary Tree and Solving Striver Dsa Sheet
 
-### Restart 100 days challange
+## Day 61
 
 - Binary Tree Preorder Traversal -> Leetcode - 144
 - Binary Tree inorder Traversal -> Leetcode - 94
