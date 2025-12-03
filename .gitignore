@@ -11,6 +11,6 @@
 *.so
 *.out
 *.vscode
-
+*.cph
 # Ignore build folders
 build/
