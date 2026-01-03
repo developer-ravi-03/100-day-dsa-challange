@@ -1,5 +1,5 @@
 // Leetcode-930
-// Binary Sumarray with Sum
+// Binary Subarray with Sum
 
 // Exact sum in binary array = atMost(goal) − atMost(goal−1)
 // find all subarray with at mist gial and less then goal than we are able to find exact goal
