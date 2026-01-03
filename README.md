@@ -476,3 +476,7 @@ Note : everything of OOPs covered in day 30 in one shot
 - Binary Tree inorder Traversal -> Leetcode - 94
 - Binary Tree postorder Traversal -> Leetcode - 145
 - Binary tree Level Order Traversal -> Leetcode - 102
+
+## Day 70
+
+- Binary Subarray with Sum -> Leetcode - 930
