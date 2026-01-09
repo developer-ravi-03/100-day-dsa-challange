@@ -7,33 +7,40 @@ using namespace std;
 class Solution
 {
 public:
+  int countAtMost(vector<int> &arr, int k)
+  {
+    if (k < 0)
+      return 0;
+
+    int subArr = 0;
+    int low = 0;
+    int oddCount = 0;
+
+    for (int high = 0; high < arr.size(); high++)
+    {
+      if (arr[high] % 2 == 1)
+      {
+        oddCount++;
+      }
+
+      while (oddCount > k)
+      {
+        if (arr[low] % 2 == 1)
+        {
+          oddCount--;
+        }
+        low++;
+      }
+
+      subArr += (high - low + 1);
+    }
+
+    return subArr;
+  }
+
   int countSubarrays(vector<int> &arr, int k)
   {
-    // code here
-    int n = arr.size(), ans = 0, cnt = 0, last = 0, j = 0;
-    for (int i = 0; i < n; i++)
-    {
-      if (arr[i] % 2)
-      {
-        cnt++;
-        last = 0;
-      }
-      //
-      while (j <= i && cnt >= k)
-      {
-        if (arr[j] % 2)
-        {
-          cnt--;
-        }
-        j++;
-        // count of sub-array
-        last++;
-      }
-      //
-      ans += last;
-    }
-    //
-    return ans;
+    return countAtMost(arr, k) - countAtMost(arr, k - 1);
   }
 };
 int main()
