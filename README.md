@@ -484,3 +484,7 @@ Note : everything of OOPs covered in day 30 in one shot
 ## Day 71
 
 - Binary Subarray with Sum -> Leetcode - 930
+
+## Day 71
+
+- Binary Subarray with Sum -> Leetcode - 930
