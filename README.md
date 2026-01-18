@@ -488,3 +488,8 @@ Note : everything of OOPs covered in day 30 in one shot
 ## Day 71
 
 - Binary Subarray with Sum -> Leetcode - 930
+
+## Day 82
+
+- Kadane's algo
+- Expression contains redundant bracket or not
