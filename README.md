@@ -493,3 +493,14 @@ Note : everything of OOPs covered in day 30 in one shot
 
 - Kadane's algo
 - Expression contains redundant bracket or not
+
+## Day 84
+
+- Implement UNDO & REDO
+- Implement Stack using Arrays
+- Implement Queue using Arrays
+- Implement Stack using Queues -> Leetcode - 225
+- Implement Queue using Stacks -> Leetcode - 232
+- Implement Stacks using LL
+- Implement Queue using LL
+- Valid Parenthesis -> Leetcode - 20
