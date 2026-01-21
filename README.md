@@ -481,18 +481,26 @@ Note : everything of OOPs covered in day 30 in one shot
 
 - Binary Subarray with Sum -> Leetcode - 930
 
-## Day 71
+## Day 80
 
-- Binary Subarray with Sum -> Leetcode - 930
+- Police and Thieves
+- Find the Duplicate Number
+- Happy Number
 
-## Day 71
+## Day 81
 
-- Binary Subarray with Sum -> Leetcode - 930
+- Minimum Number of Workers
+- Count Residue Prefixes
+- Number of Centered Subarrays
 
 ## Day 82
 
 - Kadane's algo
 - Expression contains redundant bracket or not
+
+## Day 83
+
+- Remove K Digits
 
 ## Day 84
 
