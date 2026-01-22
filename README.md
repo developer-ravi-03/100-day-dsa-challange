@@ -512,3 +512,7 @@ Note : everything of OOPs covered in day 30 in one shot
 - Implement Stacks using LL
 - Implement Queue using LL
 - Valid Parenthesis -> Leetcode - 20
+
+## Day 85
+
+- Remove K Digits
