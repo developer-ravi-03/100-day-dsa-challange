@@ -517,3 +517,8 @@ Note : everything of OOPs covered in day 30 in one shot
 
 - Maximum Subarray Sum with One Deletion -> Leetcode : 1186
 - Maximum Absolute Sum of Any Subarray -> Leetcode : 1749
+
+## Day 86
+
+- Josephus problem
+- Maximum Sum Circular Subarray -> Leetcode : 918
