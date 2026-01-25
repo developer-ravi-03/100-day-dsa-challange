@@ -515,4 +515,5 @@ Note : everything of OOPs covered in day 30 in one shot
 
 ## Day 85
 
-- Remove K Digits
+- Maximum Subarray Sum with One Deletion -> Leetcode : 1186
+- Maximum Absolute Sum of Any Subarray -> Leetcode : 1749
