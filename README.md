@@ -522,3 +522,17 @@ Note : everything of OOPs covered in day 30 in one shot
 
 - Josephus problem
 - Maximum Sum Circular Subarray -> Leetcode : 918
+
+## Day 87
+
+### Prefix Sum
+
+- Find Pivot Index -> Leetcode : 724
+- Find Pivot Index -> Leetcode : 724 (Optimised)
+- Subarray Sum Equals K -> Leetcode:560
+- Subarray Sums Divisible by K -> Leetcode : 974
+- Contiguous Array -> Leetcode : 525
+
+---
+
+- Generate Permutations of an array -> GFG : Problem of the day
