@@ -536,3 +536,13 @@ Note : everything of OOPs covered in day 30 in one shot
 ---
 
 - Generate Permutations of an array -> GFG : Problem of the day
+
+---
+
+## Day 88
+
+- Check if Array Is Sorted and Rotated -> Leetcode : 1752
+
+## Day 89
+
+- Stream First Non-repeating -> GFG: Problem of the day
