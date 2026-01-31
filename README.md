@@ -481,6 +481,12 @@ Note : everything of OOPs covered in day 30 in one shot
 
 - Binary Subarray with Sum -> Leetcode - 930
 
+## Day 71
+
+- Max Consecutive Ones III -> Leetcode : 1004
+- Count Number of Nice Subarrays -> Leetcode : 1248
+- Number of Substrings Containing All Three Characters -> Leetcode : 1358
+
 ## Day 80
 
 - Police and Thieves
