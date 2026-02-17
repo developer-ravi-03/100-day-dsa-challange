@@ -1,5 +1,5 @@
 // Remove All Adjacent Duplicates in String II
-// Leetcode : 1209
+// Leetcode : 1209 ->Method 1
 #include <iostream>
 #include <stack>
 #include <algorithm>
