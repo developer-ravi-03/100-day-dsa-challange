@@ -6,52 +6,29 @@ using namespace std;
 class Solution
 {
 public:
-  bool canConstruct(string ransomNote, string magazine)
+  int firstUniqChar(string s)
   {
-    unordered_map<char, int> r;
-    unordered_map<char, int> m;
-
-    for (char c : ransomNote)
+    int n = s.size();
+    unordered_map<char, int> mp;
+    for (int i = 0; i < n; i++)
     {
-      r[c]++;
+      mp[s[i]]++;
     }
 
-    for (char c : magazine)
+    for (int i = 0; i < n; i++)
     {
-      m[c]++;
-    }
-
-    for (char c : ransomNote)
-    {
-      if (r[c] <= m[c])
+      if (mp[s[i]] < 2)
       {
-        continue;
-      }
-      else
-      {
-        return false;
+        return i;
       }
     }
-    return true;
+    return -1;
   }
 };
 int main()
 {
   Solution sol;
-  string ransomNote = "a";
-  string magazine = "b";
-  cout << (sol.canConstruct(ransomNote, magazine) ? "true" : "false") << endl;
-
-  ransomNote = "a";
-  magazine = "b";
-  cout << (sol.canConstruct(ransomNote, magazine) ? "true" : "false") << endl;
-
-  ransomNote = "aa";
-  magazine = "ab";
-  cout << (sol.canConstruct(ransomNote, magazine) ? "true" : "false") << endl;
-
-  ransomNote = "aa";
-  magazine = "aab";
-  cout << (sol.canConstruct(ransomNote, magazine) ? "true" : "false") << endl;
+  string s = "leetcode";
+  cout << sol.firstUniqChar(s) << endl;
   return 0;
 }
